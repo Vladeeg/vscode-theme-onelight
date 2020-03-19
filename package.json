@@ -1,9 +1,9 @@
 {
     "name": "vscode-theme-onelight",
-    "displayName": "Atom One Light Theme",
+    "displayName": "Atom One Light Theme Fixed",
     "description": "One Light Theme based on Atom",
     "version": "2.2.0",
-    "publisher": "akamud",
+    "publisher": "Vladeeg",
     "license": "MIT",
     "galleryBanner": {
 		"color": "#E8E8E8",
